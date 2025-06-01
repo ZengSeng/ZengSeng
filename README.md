@@ -1,16 +1,43 @@
-## Hi there 👋
+<div style="background-color:#fdf6e3; border:2px dashed #cc66cc; padding:20px; font-family:'Comic Sans MS', cursive; color:#333;">
 
-<!--
-**ZengSeng/ZengSeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🌟 Welcome to My Digital Hangout! 🌟</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="200" />
+</p>
 
-Here are some ideas to get you started:
+## ✨ Hi there 👋 I'm Zeng Seng
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Bachelor of Science (Mathematical Physics)  
+💼 Data Analyst | BI Developer | AI Practitioner  
+📍 Based in Auckland, New Zealand  
+🛠️ Power BI | Python | SQL | DAX | Oracle AI | Power Platform  
+💡 Turning data into insight, automation, and impact
+
+---
+
+### 💜 Current Mood:  
+> *"Building cool stuff, one dashboard at a time 🎛️"*
+
+---
+
+### 📁 Cool Projects I'm Working On:
+- 🚀 [Rocket Lab BI Ops Toolkit](#) – Automating data pipelines, reporting, and refresh monitoring  
+- 🌾 [Crop Vision AI](#) – TensorFlow-powered app for fruit recognition and yield estimation  
+- 💸 [Finance KPI Monitor](#) – Financial risk dashboards using DAX & Power BI
+
+---
+
+### 📬 Let's Connect:
+- 📧 Email: winter.kee@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/zengsengkee/)  
+- 💾 [Resume](#)  
+- 🧠 Fun fact: I still remember Friendster ✨ and use `version control` like a diary 📖
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif" width="120" />
+</p>
+<p align="center"><i>“Powered by curiosity, coffee ☕, and clean code.”</i></p>
+
+</div>
