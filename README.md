@@ -21,9 +21,7 @@
 ---
 
 ### 📁 Cool Projects I'm Working On:
-- 🚀 [Rocket Lab BI Ops Toolkit](#) – Automating data pipelines, reporting, and refresh monitoring  
-- 🌾 [Crop Vision AI](#) – TensorFlow-powered app for fruit recognition and yield estimation  
-- 💸 [Finance KPI Monitor](#) – Financial risk dashboards using DAX & Power BI
+- LLM fine tuning
 
 ---
 
@@ -31,7 +29,7 @@
 - 📧 Email: winter.kee@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/zengsengkee/)  
 - 💾 [Resume](#)  
-- 🧠 Fun fact: I still remember Friendster ✨ and use `version control` like a diary 📖
+- 🧠 Fun fact: I play Rubik's cube 
 
 ---
 
