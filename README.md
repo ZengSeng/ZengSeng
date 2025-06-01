@@ -21,7 +21,7 @@
 ---
 
 ### 📁 Cool Projects I'm Working On:
-- LLM fine tuning
+- LLM fine tuning https://github.com/ZengSeng/train-llm
 
 ---
 
